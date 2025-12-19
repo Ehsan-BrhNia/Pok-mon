@@ -57,6 +57,6 @@ pokemon/
 git clone https://github.com/Ehsan-BrhNia/Pok-mon.git
 cd Pok-mon
 
-## 2.docker-compose up --build
+ 2. **docker-compose up --build**
 
 
